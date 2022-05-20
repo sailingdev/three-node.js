@@ -11,17 +11,12 @@ $ npm install three.js
 
 ## Usage
 
-See [examples](https://github.com/uniba/node-three.js/blob/master/examples/).
+See [examples](https://github.com/olaf1005/node-three.js/blob/master/examples/).
 
-## Authors
-
-  - Seiya Konno &lt;seiya@uniba.jp&gt; ([nulltask](https://github.com/nulltask))
 
 ## License
 
 (The MIT License)
-
-Copyright (c) 2012, 2013 Uniba Inc. &lt;info@uniba.jp&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
